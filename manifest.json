@@ -1,9 +1,10 @@
 {
     "name": "Style Generator",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "Anastasia K.",
     "description": "Генерирует промпты стиля и диалогов на основе описания и внедряет их в пресет.",
     "js": "index.js",
     "display_name": "Генератор Стиля (AI)",
     "loading_order": 100
+
 }
